@@ -10,3 +10,5 @@ puts "Exercise 7"
 puts "----------"
 
 # Your code goes here ...
+print "Please enter a store name: "
+new_store = gets.chomp
